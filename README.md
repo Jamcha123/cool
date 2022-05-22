@@ -1,2 +1,2 @@
-# some-bad-code
+# poker
 this some of my c++ projects
