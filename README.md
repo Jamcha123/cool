@@ -1,2 +1,2 @@
 # poker
-this some of my c++ projects
+this some of my crap projects
