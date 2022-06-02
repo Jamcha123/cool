@@ -1,2 +1,2 @@
 # i dunno man sounds kinda crap
-this some of my crap projects
+how the fuck do sort a array without using libaries
